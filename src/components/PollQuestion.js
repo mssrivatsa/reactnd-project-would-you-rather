@@ -39,7 +39,7 @@ class PollQuestion extends Component {
             checked={value === "optionTwo"}
             onChange={this.handleChange}
           />
-          <Form.Button color="blue" content="Submit" fluid />
+          <Form.Button color="black" content="Submit" fluid />
         </Form>
       </Fragment>
     );
